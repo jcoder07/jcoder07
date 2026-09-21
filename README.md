@@ -4,6 +4,8 @@
 
 🚀 Open to new opportunities in iOS development and software engineering.
 
+🌐 **[English](#about-me) | [Español](#sobre-mí)**
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjfernandezm/)
@@ -16,6 +18,13 @@
 - 🛠️ I care about writing maintainable, well-tested software and following solid engineering practices
 - 🌱 Always learning and exploring new tools across the Apple ecosystem
 - 🤝 Open to collaborating on iOS projects and open source
+
+## Sobre mí
+
+- 📱 Desarrollo aplicaciones nativas para iOS con foco en arquitectura limpia y una gran experiencia de usuario
+- 🛠️ Me importa escribir software mantenible, bien testeado y seguir buenas prácticas de ingeniería
+- 🌱 Siempre aprendiendo y explorando nuevas herramientas del ecosistema Apple
+- 🤝 Abierto a colaborar en proyectos iOS y de código abierto
 
 ## Skills
 
